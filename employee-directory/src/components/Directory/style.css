@@ -1,0 +1,17 @@
+#sortSelection {
+    margin-bottom: 10px;
+    background-color: green;
+    color: white;
+    height: 35px;
+    display: "flex";
+  }
+  #sortContainer {
+    display: flex;
+    justify-content: flex-end;
+  }
+  #directory {
+    padding-top: 5%;
+  }
+  #description {
+    padding-bottom: 2%;
+  }
